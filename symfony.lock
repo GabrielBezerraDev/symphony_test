@@ -103,7 +103,7 @@
             "config/packages/cache.yaml",
             "config/packages/framework.yaml",
             "config/preload.php",
-            "config/routes/framework.yaml",
+            "config//framework.yaml",
             "config/services.yaml",
             "public/index.php",
             "src/Controller/.gitignore",
